@@ -1,0 +1,14 @@
+{
+  "name": "sheltered-stream-7382",
+  "version": "1.0.0",
+  "description": "Redirect app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "rharrington",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
